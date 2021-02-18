@@ -47,6 +47,19 @@
   box-sizing: border-box;
 }
 
+button27 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 24px;
+}
 html {
   font-family: sans-serif;
   line-height: 1.15;
